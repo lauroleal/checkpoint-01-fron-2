@@ -1,0 +1,177 @@
+/* Fonte externa para os textos da pagina*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* estilizando a barra de rolagem*/
+
+
+/* no Firefox */
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #000000 rgb(255, 255, 255);
+}
+
+
+/* no Chrome, Edge, e Safari */
+
+*::-webkit-scrollbar {
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+    background: rgb(255, 255, 255);
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #000000;
+    border-radius: 30px;
+}
+
+body {
+    background-color: #fff;
+}
+
+header {
+    background-color: #000;
+    width: 100%;
+    height: auto;
+}
+
+.icones__sociais {
+    width: 33px;
+    height: auto;
+    margin: 5px 0px 5px 0px;
+}
+
+.p__titulo {
+    border-bottom: solid 1px rgb(0, 0, 0);
+    font-family: 'Questrial', sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+    color: #004196;
+    padding: 5px;
+    margin: 5px;
+}
+
+.p__texto {
+    font-family: 'Questrial', sans-serif;
+    font-size: 16px;
+    color: #000000;
+    padding: 5px;
+    margin: 5px;
+}
+
+.img__post {
+    max-width: 100%;
+    border-bottom-right-radius: 190px;
+    border-top-left-radius: 190px;
+    border: solid 8px rgb(243, 207, 1);
+    height: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#img__logo {
+    width: 112px;
+    height: auto;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+
+.box__externo {
+    display: flex;
+}
+
+.box__interno {
+    display: flex;
+    flex: auto;
+    justify-content: flex-end;
+}
+
+.box__externo__post {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.box__externo__conteudo {
+    display: flex;
+    justify-content: center;
+}
+
+
+/*Hover icones sociais header*/
+
+a.facebook:hover {
+    content: url(facebook_logo.png);
+    width: 33px;
+    height: auto;
+    margin: 5px 0px 5px 0px;
+}
+
+a.instagram:hover {
+    content: url(instagram_logo.png);
+    width: 33px;
+    height: auto;
+    margin: 5px 0px 5px 0px;
+}
+
+a.twitter:hover {
+    content: url(twitter_logo.png);
+    width: 33px;
+    height: auto;
+    margin: 5px 0px 5px 0px;
+}
+
+a.linkedin:hover {
+    content: url(linkedin_logo.png);
+    width: 33px;
+    height: auto;
+    margin: 5px 0px 5px 0px;
+}
+
+a.github:hover {
+    content: url(GitHub_logo_dark.png);
+    width: 33px;
+    height: auto;
+    margin: 5px 0px 5px 0px;
+}
+
+a.whatsapp:hover {
+    content: url(Whatsapp_logo.png);
+    width: 33px;
+    height: auto;
+    margin: 5px 0px 5px 0px;
+}
+
+.img__logo {
+    width: 120px;
+    height: auto;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+
+/*CSS Footer*/
+
+footer {
+    background-color: #000;
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+}
+
+.p__footer {
+    color: #fff;
+    margin: 10px;
+    font-family: 'Questrial';
+    font-size: 13px;
+    padding-bottom: 10px;
+}
