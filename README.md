@@ -2,7 +2,7 @@
 
 ## Instruções e requisitos do entregável
 
-- 1. O tema da aplicação é de sua preferência. Pode ser sobre carros, animes, cidades, etc.
+### - 1. O tema da aplicação é de sua preferência. Pode ser sobre carros, animes, cidades, etc.
 - 2. A aplicação deve ser responsiva.
 - 3. A aplicação consiste em um formulário que, ao ser preenchido, cria cards com as informações preenchidas.
 - 4. Sobre o formulário: 
