@@ -34,4 +34,8 @@ form.addEventListener("submit", function(event) {
     section.appendChild(campo__titulo);
     section.appendChild(campo__descricao);
     post.appendChild(section);
+
+
+    document.querySelector(".reset").click();
+
 });

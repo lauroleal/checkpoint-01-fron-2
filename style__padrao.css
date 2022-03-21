@@ -67,42 +67,42 @@ header {
 /*Hover icones sociais header*/
 
 a.facebook:hover {
-    content: url(../img/facebook_logo.png);
+    content: url(facebook_logo.png);
     width: 33px;
     height: auto;
     margin: 5px 0px 5px 0px;
 }
 
 a.instagram:hover {
-    content: url(../img/instagram_logo.png);
+    content: url(instagram_logo.png);
     width: 33px;
     height: auto;
     margin: 5px 0px 5px 0px;
 }
 
 a.twitter:hover {
-    content: url(../img/twitter_logo.png);
+    content: url(twitter_logo.png);
     width: 33px;
     height: auto;
     margin: 5px 0px 5px 0px;
 }
 
 a.linkedin:hover {
-    content: url(../img/linkedin_logo.png);
+    content: url(linkedin_logo.png);
     width: 33px;
     height: auto;
     margin: 5px 0px 5px 0px;
 }
 
 a.github:hover {
-    content: url(../img/GitHub_logo_dark.png);
+    content: url(GitHub_logo_dark.png);
     width: 33px;
     height: auto;
     margin: 5px 0px 5px 0px;
 }
 
 a.whatsapp:hover {
-    content: url(../img/Whatsapp_logo.png);
+    content: url(Whatsapp_logo.png);
     width: 33px;
     height: auto;
     margin: 5px 0px 5px 0px;
