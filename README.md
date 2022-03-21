@@ -11,3 +11,5 @@
 ### 5️⃣  Sobre os Cards:
 - 🅰. Os cards devem ter uma imagem e constar todas as informações previamente preenchidas no formulário. 
 - 🅱. O comportamento se dará de forma que as informações preenchidas sejam exibidas na seção de cards.
+
+###  [Resultado final do Projeto](https://lauroleal.github.io/checkpoint-01-fron-2/)
