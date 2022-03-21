@@ -1,5 +1,5 @@
-Titulo: A Linguagem JavaScript
+Titulo: A Linguagem Java
 
-Descrição: JavaScript, muitas vezes abreviado JS, é uma linguagem de programação que é uma das principais tecnologias da World Wide Web, juntamente com HTML e CSS. Mais de 97% dos sites usam JavaScript no lado do cliente para o comportamento da página da Web, geralmente incorporando bibliotecas de terceiros.
+Descrição: Java é uma linguagem de programação de alto nível, baseada em classes e orientada a objetos, projetada para ter o menor número possível de dependências de implementação.
 
-url-img: https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-javascript/sta-je-javascript.jpg
+url-img: https://miro.medium.com/max/1200/1*GCu4cNWIU1ElDbY7d4ycZw.png

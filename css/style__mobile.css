@@ -22,7 +22,14 @@
     .box__externo {
         display: block;
     }
-    .box__interno__mobile {
+    .box__externo__post {
+        max-width: 500px;
+        margin: 0 auto;
+    }
+    #postagem {
+        width: 100%;
+    }
+    .box__interno {
         display: flex;
         justify-content: center;
     }
@@ -101,12 +108,13 @@
         color: #ffffff;
         font-weight: bold;
     }
-    .p__valida__campo {
-        margin-top: 1px;
-        margin-bottom: 1px;
+    .titulo {
         font-family: 'Questrial', sans-serif;
-        font-size: 10px;
+        font-size: 15px;
         font-weight: bold;
+        color: #004196;
+        text-align: center;
+        padding: 10px;
     }
     button {
         padding: 5px 6px;
@@ -143,9 +151,8 @@
         display: block;
         justify-content: center;
     }
-    .box__interno__mobile {
-        display: flex;
-        justify-content: center;
+    #postagem {
+        width: 100%;
     }
     .icones__sociais {
         width: 25px;
@@ -222,12 +229,13 @@
         color: #ffffff;
         font-weight: bold;
     }
-    .p__valida__campo {
-        margin-top: 6px;
-        margin-bottom: 6px;
+    .titulo {
         font-family: 'Questrial', sans-serif;
-        font-size: 14px;
+        font-size: 20px;
         font-weight: bold;
+        color: #004196;
+        text-align: center;
+        padding: 10px;
     }
     button {
         padding: 10px 22px;
@@ -263,9 +271,8 @@
     .box__externo {
         display: block;
     }
-    .box__interno__mobile {
-        display: flex;
-        justify-content: center;
+    #postagem {
+        width: 100%;
     }
     .icones__sociais {
         width: 25px;
@@ -307,6 +314,14 @@
         font-size: 13px;
         color: #000e53;
     }
+    .titulo {
+        font-family: 'Questrial', sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+        color: #004196;
+        text-align: center;
+        padding: 10px;
+    }
     .formulario__campo:focus,
     textarea:focus {
         box-shadow: 0 0 0 0;
@@ -324,13 +339,6 @@
         font-family: 'PT Sans Narrow', sans-serif;
         font-size: 16px;
         color: #ffffff;
-        font-weight: bold;
-    }
-    .p__valida__campo {
-        margin-top: 6px;
-        margin-bottom: 6px;
-        font-family: 'Questrial', sans-serif;
-        font-size: 14px;
         font-weight: bold;
     }
     button {
